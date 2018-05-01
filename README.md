@@ -1,5 +1,5 @@
 # MDX
 
-Try MDX here
+Try MDX with next.js example
 
 

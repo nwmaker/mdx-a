@@ -1,0 +1,37 @@
+{
+  "name": "mdx-a",
+  "version": "0.1.0",
+  "description": "next.js with mdx",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nwmaker/mdx-a.git"
+  },
+  "keywords": [
+    "next.js",
+    "react"
+  ],
+  "author": "makernw@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nwmaker/mdx-a/issues"
+  },
+  "homepage": "https://github.com/nwmaker/mdx-a#readme",
+  "dependencies": {
+    "@mdx-js/mdx": "^0.8.1",
+    "@mdx-js/tag": "^0.7.2",
+    "next": "^6.0.0",
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2",
+    "remark-images": "^0.8.1"
+  },
+  "devDependencies": {
+    "@mdx-js/loader": "^0.8.1"
+  }
+}
